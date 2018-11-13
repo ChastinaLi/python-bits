@@ -12,3 +12,7 @@ nCr
 f = math.factorial
 num_pairs = f(count) // f(2) // f(count-2)
 ```
+
+```python
+list(set(a+b))
+```
