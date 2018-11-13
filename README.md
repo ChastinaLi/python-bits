@@ -16,3 +16,8 @@ num_pairs = f(count) // f(2) // f(count-2)
 ```python
 list(set(a+b))
 ```
+
+Find exponent:
+```python
+exponential = round(math.log(x)/math.log(r), 3)
+```
