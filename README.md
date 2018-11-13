@@ -21,3 +21,7 @@ Find exponent:
 ```python
 exponential = round(math.log(x)/math.log(r), 3)
 ```
+Lambda:
+```python
+default_count = lambda exponential: exponential_map.get(exponential, 0)
+```
